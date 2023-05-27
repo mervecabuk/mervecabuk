@@ -1,0 +1,3 @@
+- 👋 Hi, I’m mechatronics eng student
+- 👀 I’m interested in music
+- 🌱 I’m currently learning c#
